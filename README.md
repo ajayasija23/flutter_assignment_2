@@ -9,4 +9,4 @@ Card Connect – Styling with Container
 
 ## Screenshots
 
-![Screenshot not found](assets/img.png)
+![Screenshot not found](screenshots/img.png)
