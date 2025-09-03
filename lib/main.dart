@@ -1,5 +1,4 @@
-import 'package:card_connect/home_page.dart';
-import 'package:card_connect/user_card.dart';
+import 'package:emojis_demo/home_page.dart';
 import 'package:flutter/material.dart';
 
 void main() {

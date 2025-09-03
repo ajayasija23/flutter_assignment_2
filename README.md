@@ -4,8 +4,8 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a Assignment 2 of TuteDude flutter course
-Card Connect – Styling with Container
+This project is a Assignment 3 of TuteDude flutter course
+Creative Use of setState()
 
 ## Screenshots
 
